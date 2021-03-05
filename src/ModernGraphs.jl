@@ -1,5 +1,9 @@
 module ModernGraphs
 
-# Write your package code here.
+# import ConstraintDomains to represent TimeIntervals
+import ConstraintDomains
+
+# Include
+include("time_interval.jl")
 
 end
