@@ -3,6 +3,9 @@ uuid = "8af4c0f7-917f-4a35-b394-2c380533a41c"
 authors = ["azzaare <jf@baffier.fr>"]
 version = "0.1.0"
 
+[deps]
+ConstraintDomains = "5800fd60-8556-4464-8d61-84ebf7a0bedb"
+
 [compat]
 julia = "1.6"
 
