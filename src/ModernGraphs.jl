@@ -4,6 +4,6 @@ module ModernGraphs
 import ConstraintDomains
 
 # Include
-include("time_interval.jl")
+include("time_set.jl")
 
 end
