@@ -3,7 +3,13 @@ uuid = "8af4c0f7-917f-4a35-b394-2c380533a41c"
 authors = ["azzaare <jf@baffier.fr>"]
 version = "0.1.0"
 
+[deps]
+PatternFolds = "c18a7f1d-76ad-4ce4-950d-5419b888513b"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
 [compat]
+PatternFolds = "0.2.0"
+Reexport = "1"
 julia = "1.6"
 
 [extras]
